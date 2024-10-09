@@ -1,3 +1,4 @@
-# pink_guruji
+# Pengembangan Aplikasi Multiplatform - B
 
-A new Flutter project.
+Flutter project.
+
